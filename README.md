@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi, I'm Daniel 👋
 
-<!--
-**daniel-falcao/daniel-falcao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Software Developer focused on Python, NLP, and Data Processing.
 
-Here are some ideas to get you started:
+I have hands-on experience building real-world solutions for data migration, validation, and automation using Python and Machine Learning techniques.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Semantic Data Matcher (NLP)
+NLP-based system that uses sentence embeddings to perform semantic matching between datasets.
+
+- Python, Sentence-Transformers, FastAPI
+- Cosine similarity & embeddings
+- Docker + API deployment
+
+👉 (add link here)
+
+---
+
+### 🔹 Data Validation Tool
+Tool for validating and comparing large datasets.
+
+- Python, Pandas
+- Data integrity checks
+- Automation scripts
+
+👉 (add link here)
+
+---
+
+### 🔹 Task Manager API
+Simple backend API project.
+
+- FastAPI / Flask
+- CRUD operations
+- REST API
+
+👉 (add link here)
+
+---
+
+## 🛠 Tech Stack
+
+- Python
+- SQL
+- FastAPI
+- Pandas
+- NLP (Sentence Transformers)
+- Docker
+
+---
+
+## 🌐 Open to Opportunities
+
+I’m currently looking for remote international opportunities as a Junior Software Developer.
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://linkedin.com/in/seu-link
+- Email: seu-email@gmail.com
