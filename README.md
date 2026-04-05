@@ -8,6 +8,11 @@ I have hands-on experience building real-world solutions for data migration, val
 
 ## 🚀 Featured Projects
 
+| Project | What it does | Stack |
+|---|---|---|
+| [semantic-data-matcher](https://github.com/YOUR_USERNAME/semantic-data-matcher) | Matches free-text descriptions to a reference domain using multilingual NLP. Live REST API on Railway. | Python · FastAPI · sentence-transformers · Docker |
+| [data-check](https://github.com/YOUR_USERNAME/data-check) | Cross-references records across fixed-width TXT, delimited TXT, and Excel files using composite key matching. | Python · pandas · openpyxl |
+
 ### 🔹 Semantic Data Matcher (NLP)
 NLP-based system that uses sentence embeddings to perform semantic matching between datasets. Matches free-text descriptions to a reference domain using multilingual NLP. Live REST API on Railway.
 
