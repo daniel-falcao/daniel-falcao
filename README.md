@@ -15,7 +15,6 @@ NLP-based system that uses sentence embeddings to perform semantic matching betw
 - Cosine similarity & embeddings
 - Docker + API deployment
 
-👉 (add link here)
 
 ---
 
@@ -26,7 +25,6 @@ Tool for validating and comparing large datasets.
 - Data integrity checks
 - Automation scripts
 
-👉 (add link here)
 
 ---
 
@@ -36,8 +34,6 @@ Simple backend API project.
 - FastAPI / Flask
 - CRUD operations
 - REST API
-
-👉 (add link here)
 
 ---
 
@@ -60,5 +56,5 @@ I’m currently looking for remote international opportunities as a Junior Softw
 
 ## 📫 Contact
 
-- LinkedIn: https://linkedin.com/in/seu-link
-- Email: seu-email@gmail.com
+- LinkedIn: www.linkedin.com/in/danielguilhardifalcao
+- Email: danielguilhardi@gmail.com
