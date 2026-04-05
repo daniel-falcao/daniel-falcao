@@ -2,7 +2,10 @@
 
 Junior Software Developer focused on Python, NLP, and Data Processing.
 
-I have hands-on experience building real-world solutions for data migration, validation, and automation using Python and Machine Learning techniques.
+I have hands-on experience building real-world solutions for data migration, validation, and automation using Python and Machine Learning techniques. Transitioning into tech — bringing analytical thinking and operational experience from a previous career into software that solves real business problems.
+
+**Tech I work with**
+Python · FastAPI · Docker · PostgreSQL · pandas · sentence-transformers · Railway · GitHub Actions
 
 ---
 
@@ -47,6 +50,14 @@ Tool for validating and comparing large datasets.
 - Pandas
 - NLP (Sentence Transformers)
 - Docker
+- Data Engineering
+- File Processing
+- Reconciliation
+- Automation
+- Fixed Width
+- CSV and Excel
+- ETL
+- Data Quality
 
 ---
 
