@@ -15,7 +15,6 @@ NLP-based system that uses sentence embeddings to perform semantic matching betw
 - Cosine similarity & embeddings
 - Docker + API deployment
 
-
 ---
 
 ### 🔹 Data Validation Tool
@@ -24,16 +23,6 @@ Tool for validating and comparing large datasets.
 - Python, Pandas
 - Data integrity checks
 - Automation scripts
-
-
----
-
-### 🔹 Task Manager API
-Simple backend API project.
-
-- FastAPI / Flask
-- CRUD operations
-- REST API
 
 ---
 
