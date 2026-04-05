@@ -9,16 +9,29 @@ I have hands-on experience building real-world solutions for data migration, val
 ## 🚀 Featured Projects
 
 ### 🔹 Semantic Data Matcher (NLP)
-NLP-based system that uses sentence embeddings to perform semantic matching between datasets.
+NLP-based system that uses sentence embeddings to perform semantic matching between datasets. Matches free-text descriptions to a reference domain using multilingual NLP. Live REST API on Railway.
 
 - Python, Sentence-Transformers, FastAPI
 - Cosine similarity & embeddings
 - Docker + API deployment
 
+https://github.com/daniel-falcao/semantic-data-matcher
+
+---
+
+### 🔹 Data Check
+Cross-references records across fixed-width TXT, delimited TXT, and Excel files using composite key matching. | Python · pandas · openpyxl | 
+
+- Python, Pandas, openpyxl
+- Data integrity checks
+- Automation scripts
+
+https://github.com/daniel-falcao/data-check
+
 ---
 
 ### 🔹 Data Validation Tool
-Tool for validating and comparing large datasets.
+Tool for validating and comparing large datasets. 
 
 - Python, Pandas
 - Data integrity checks
