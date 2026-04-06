@@ -9,44 +9,12 @@ I have hands-on experience building real-world solutions for data migration, val
 
 ## 🚀 Featured Projects
 
+
 | Project | What it does | Stack |
 |---|---|---|
 | [semantic-data-matcher](https://github.com/daniel-falcao/semantic-data-matcher) | Matches free-text descriptions to a reference domain using multilingual NLP. Deployed as a REST API on Railway. | Python · FastAPI · sentence-transformers · Docker |
 | [data-check](https://github.com/daniel-falcao/data-check) | Cross-references records across fixed-width TXT, delimited TXT, and Excel files using composite key matching. | Python · pandas · openpyxl |
 | [txt-consolidator](https://github.com/daniel-falcao/txt-consolidator) | Merges multiple TXT files into one and enriches each row with a mapped code from an Excel lookup table. | Python · pandas · tqdm |
-
-
-
-### 🔹 [Semantic Data Matcher (NLP)](https://github.com/daniel-falcao/semantic-data-matcher)
-NLP-based system that uses sentence embeddings to perform semantic matching between datasets. Matches free-text descriptions to a reference domain using multilingual NLP. Live REST API on Railway.
-
-- Python, Sentence-Transformers, FastAPI
-- Cosine similarity & embeddings
-- Docker + API deployment
-
-Link to project: https://github.com/daniel-falcao/semantic-data-matcher
-
----
-
-### 🔹 [Data Check](https://github.com/daniel-falcao/data-check)
-Cross-references records across fixed-width TXT, delimited TXT, and Excel files using composite key matching. | Python · pandas · openpyxl | 
-
-- Python, Pandas, openpyxl
-- Data integrity checks
-- Automation scripts
-
-Link to project: https://github.com/daniel-falcao/data-check
-
----
-
-### 🔹 [TXT Consolidator](https://github.com/daniel-falcao/txt-consolidator)
-Merges multiple TXT files into one and enriches each row with a mapped code from an Excel lookup table. 
-
-- Python, Pandas tqdm
-- Data integrity checks
-- Automation scripts
-
-Link do project: https://github.com/daniel-falcao/txt-consolidator
 
 ---
 
