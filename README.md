@@ -40,9 +40,9 @@ Link to project: https://github.com/daniel-falcao/data-check
 ---
 
 ### 🔹 [TXT Consolidator](https://github.com/daniel-falcao/txt-consolidator)
-Tool for validating and comparing large datasets. 
+Merges multiple TXT files into one and enriches each row with a mapped code from an Excel lookup table. 
 
-- Python, Pandas
+- Python, Pandas tqdm
 - Data integrity checks
 - Automation scripts
 
